@@ -1,3 +1,5 @@
+![Linux CI](https://github.com/bovine/prometheus-tcl/workflows/Linux%20CI/badge.svg)
+
 # Tcl Prometheus Package
 
 The code in this directory provides the `prometheus-tcl` package: a pure Tcl library for instrumenting Tcl scripts with [Prometheus metrics](https://prometheus.io/docs/concepts/metric_types/).
